@@ -1,0 +1,2 @@
+# JTbot
+Easy Discord BOT
